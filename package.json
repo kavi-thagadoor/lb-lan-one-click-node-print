@@ -1,0 +1,16 @@
+{
+  "name": "lb-lan-one-click-node-print",
+  "version": "1.0.0",
+  "description": "This Program runs in the android run background using termux app select the printer ip give data its ready to print",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
